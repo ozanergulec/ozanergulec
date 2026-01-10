@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 My name is Ozan Ergüleç
 
-<!--
-**ozanergulec/ozanergulec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📍 Based in Türkiye
+- 🎓 Computer Engineering student
+- 💻 Interested in **Full-Stack Development**, **Game Development**, and **Data Science**
+- 📫 You can contact me at **ozanergulec@hotmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,js,ts,react,html,css,kotlin,unity,sklearn,postgres,redis,docker,azure,git" />
+
+---
+
+## 🔗 Social Accounts
+
+<a href="https://linkedin.com/in/ozan-ergüleç">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/ozanergulec">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
