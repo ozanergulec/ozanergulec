@@ -21,3 +21,14 @@
 <a href="https://github.com/ozanergulec">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozanergulec&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Ozan's GitHub Stats" height="180" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanergulec&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Ozan's Top Langs" height="180" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanergulec&theme=vision-friendly-dark&hide_border=true" alt="Ozan's Streak" />
+</p>
