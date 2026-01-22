@@ -13,22 +13,29 @@
 
 ---
 
-## 🔗 Social Accounts
-
-<a href="https://linkedin.com/in/ozan-ergüleç">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://github.com/ozanergulec">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozanergulec&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Ozan's GitHub Stats" height="180" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanergulec&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Ozan's Top Langs" height="180" />
-</p>
+<div align="center">
+
+<a href="https://github.com/ozanergulec">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozanergulec&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
+
+## 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ozanergulec&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🔗 Social Accounts
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozanergulec&theme=vision-friendly-dark&hide_border=true" alt="Ozan's Streak" />
+  <a href="https://linkedin.com/in/ozan-ergüleç">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/ozanergulec">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
